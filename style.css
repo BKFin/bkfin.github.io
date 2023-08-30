@@ -43,3 +43,12 @@ div {
         border-style: dotted;
         border-radius: 2rem;
     }
+
+ul {
+    font-size: 5rem;
+}
+
+ol {
+    font-size: 3rem;
+    color: gold;
+}
